@@ -15,6 +15,12 @@ Github Repo | Repo |  [Repo Link](https://github.com/mGalarnyk/datasciencecourse
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
 
+## Contributors
+
+FirstName | LastName | Email
+--- | --- | ---
+kalvin|  nathan|  <mgalarny@gmail.com>
+
 
 ## License
 
