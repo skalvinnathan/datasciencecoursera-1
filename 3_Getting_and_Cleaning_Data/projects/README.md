@@ -19,7 +19,7 @@ README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecou
 
 FirstName | LastName | Email
 --- | --- | ---
-kalvin|  nathan|  <mgalarny@gmail.com>
+kalvin|  nathan|  <skalvinnathan@gmail.com>
 
 
 ## License
